@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "bruin",
+      "command": "bruin",
+      "args": ["mcp"]
+    }
+  ]
+}
